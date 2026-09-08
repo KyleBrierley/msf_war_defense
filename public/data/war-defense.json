@@ -1,11 +1,11 @@
 {
   "meta": {
     "schemaVersion": 5,
-    "generatedAt": "2026-09-07T17:44:06.014Z",
-    "dataChangedAt": "2026-09-07T17:44:06.014Z",
-    "sourceDataAsOf": "2026-09-07T17:44:06.014Z",
-    "warDataAsOf": "2026-09-07T17:44:06.014Z",
-    "characterDataAsOf": "2026-09-07T17:44:06.014Z",
+    "generatedAt": "2026-09-08T16:35:42.009Z",
+    "dataChangedAt": "2026-09-08T16:35:42.009Z",
+    "sourceDataAsOf": "2026-09-08T16:35:42.009Z",
+    "warDataAsOf": "2026-09-08T16:35:42.009Z",
+    "characterDataAsOf": "2026-09-08T16:35:42.009Z",
     "characterOverrideCount": 0,
     "characterOverrideDataAsOf": null,
     "squadCount": 1000,
@@ -13,7 +13,7 @@
     "unmappedCharacterCount": 0,
     "duplicateRecordCount": 0,
     "portraitCoverage": 1,
-    "contentHash": "ea52f9084824e6b624378241aff3781d43511827b9d4e596b3e47cf8b6524a32",
+    "contentHash": "4ce496cf97276613aaf3841adf0145f3d316c14bafe4fa37425ce8a2dddbee60",
     "sources": {
       "characters": {
         "id": "official-msf-character-api",
@@ -55834,39 +55834,39 @@
     {
       "characters": [
         {
-          "id": "Groot",
-          "name": "Groot",
-          "portrait": "https://assets.marvelstrikeforce.com/imgs/Portrait_Groot_5cc29671.png",
+          "id": "AmadeusCho",
+          "name": "Brawn",
+          "portrait": "https://assets.marvelstrikeforce.com/imgs/Portrait_AmadeusCho_0c0fc9e1.png",
           "isMapped": true
         },
         {
-          "id": "Havok",
-          "name": "Havok",
-          "portrait": "https://assets.marvelstrikeforce.com/imgs/Portrait_Havok_7475eb82.png",
+          "id": "BlueMarvel",
+          "name": "Blue Marvel",
+          "portrait": "https://assets.marvelstrikeforce.com/imgs/Portrait_BlueMarvel_9330e29f.png",
           "isMapped": true
         },
         {
-          "id": "HowardTheDuck",
-          "name": "Howard The Duck",
-          "portrait": "https://assets.marvelstrikeforce.com/imgs/Portrait_HowardTheDuck_f5258093.png",
+          "id": "MsMarvel",
+          "name": "Ms. Marvel",
+          "portrait": "https://assets.marvelstrikeforce.com/imgs/Portrait_MsMarvel_c6445763.png",
           "isMapped": true
         },
         {
-          "id": "Lilandra",
-          "name": "Lilandra",
-          "portrait": "https://assets.marvelstrikeforce.com/imgs/Portrait_Lilandra_9234bcad.png",
+          "id": "NovaSamAlexander",
+          "name": "Nova (Sam Alexander)",
+          "portrait": "https://assets.marvelstrikeforce.com/imgs/Portrait_NovaSamAlexander_efd9722f.png",
           "isMapped": true
         },
         {
-          "id": "Sentry",
-          "name": "Sentry",
-          "portrait": "https://assets.marvelstrikeforce.com/imgs/Portrait_Sentry_f9c81c79.png",
+          "id": "UltSpiderMan",
+          "name": "Spider-Man (Miles)",
+          "portrait": "https://assets.marvelstrikeforce.com/imgs/Portrait_UltSpiderMan_1214e2a2.png",
           "isMapped": true
         }
       ],
       "totalBattles": 111,
-      "defensiveWins": 9,
-      "defendRate": 8.1
+      "defensiveWins": 33,
+      "defendRate": 29.7
     }
   ]
 }
